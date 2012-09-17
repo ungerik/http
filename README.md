@@ -2,8 +2,11 @@
 
 Usage examples:
 
-	http get erikunger.com
+	http get http://erikunger.com
 
-	http head http://erikunger.com
+	http head erikunger.com
 
 	http post example.com name0=value name1="Hello World!"
+
+
+Copyrights: Public Domain
