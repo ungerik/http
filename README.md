@@ -1,5 +1,10 @@
 ##A HTTP command line interface for humans
 
+Install and build:
+
+	go get github.com/ungerik/http
+	go install github.com/ungerik/http
+
 Usage examples:
 
 	http get http://erikunger.com
